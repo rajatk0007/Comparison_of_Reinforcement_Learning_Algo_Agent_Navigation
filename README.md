@@ -3,6 +3,8 @@
 The objective of this project is to understand different reinforcement learning algorithms for the use case of agent navigation.
 
 
+<img width="589" alt="Screenshot 2022-09-12 at 12 59 10 PM" src="https://user-images.githubusercontent.com/45784014/189597067-7a1ffc3b-d2ab-449e-bc1d-caf9cd1357ea.png">
+
 
 ## Preface
 
