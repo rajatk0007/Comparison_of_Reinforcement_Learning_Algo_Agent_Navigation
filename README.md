@@ -43,6 +43,6 @@ It uses a deep neural network to approximate the values. This approximation of v
 
 <img width="603" alt="Screenshot 2022-09-12 at 12 51 07 PM" src="https://user-images.githubusercontent.com/45784014/189595586-890e67a3-9f94-445b-802d-8fbe671cba02.png">
 
-We have done a comparative study of the different algorithms and reached to a conclusion. This can be found in the result pdf folder above. Alternatively, the .ipynb files can be run on your local machine or a cloud service to get similar results if you'd like that. The input and output examples are given in the .ipynb files for each algorithm. Do check them out for some visuals.
+We have done a comparative study of the different algorithms and reached to a conclusion. This can be found in the <b>pdfs</b> folder above. Alternatively, the .ipynb files can be run on your local machine or a cloud service to get similar results if you'd like that. The input and output examples are given in the .ipynb files for each algorithm. Do check them out for some visuals.
 
 =) =) =) =)
